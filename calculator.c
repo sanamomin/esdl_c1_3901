@@ -7,3 +7,7 @@ void main()
 int add(int p,q)
 {
 }
+int subtract(int p,q)
+{
+ return p,q
+}
